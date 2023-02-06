@@ -69,9 +69,9 @@ if streamlit.button('Add a Fruit to the List'):
 streamlit.stop()
 #my_data_row = my_cur.fetchone()
  
-streamlit.text("The fruit load list contains:")
+#streamlit.text("The fruit load list contains:")
 
 
 
-streamlit.write('', add_my_fruit)
+#streamlit.write('', add_my_fruit)
 
